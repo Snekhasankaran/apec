@@ -72,7 +72,7 @@
 <body>
   <div class="login-box">
     <!-- Replace this with your actual APEC logo image if needed -->
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Adhiparasakthi_Engineering_College_logo.png/220px-Adhiparasakthi_Engineering_College_logo.png" alt="APEC College Logo" class="logo">
+    <img src="apec.logo" alt="APEC College Logo" class="logo">
     <h2>Sign in to GitHub</h2>
     <form action="/login" method="POST">
       <label for="username">Username or email</label>
